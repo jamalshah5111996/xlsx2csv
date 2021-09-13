@@ -1,0 +1,9 @@
+1. Open Excel, and press Alt + F11 keys to open Microsoft Visual Basic for Applications (VBA) window.
+
+2. Click Insert > Module to create a new Module.
+
+3. Copy 'VBA' file code and paste them to the new Module window.
+
+4. Press F5 key, select the folder contains the Excel files you want to convert to CSV files in first popping dialog.
+
+5. Click OK, then in the second popping dialog, select the folder to place the CSV files.
